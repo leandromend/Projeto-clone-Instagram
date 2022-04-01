@@ -1,3 +1,8 @@
 # Site-clone-Instagram
 
-Projet feito em equipe  dirigido  pela gabriela  pinheiro  junto com  a Digital  innovation  one  .
+Projeto desenvolvi  e  d  no Bootcamp  HTML  WEB DEVELOPER, da Digital Innovation One.
+
+
+### Objetivo
+
+Aprender a  
